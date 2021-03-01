@@ -1,0 +1,6 @@
+# Manually created list of Python library dependencies for notebooks in this repo
+#
+# Generated in notebook with: !pip list -v 
+#
+# Used primarily by Binder
+pandas==1.1.5 
